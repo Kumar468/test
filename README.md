@@ -1,10 +1,3 @@
- 143 
-test
-praveen
-kumar
-i love you
-/nhello
-/nhello
-/nhello
+praveen kumar
 
 Mumbai Indians is the 2023 Champion
